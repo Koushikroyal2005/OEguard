@@ -23,6 +23,7 @@ pydantic==2.5.3
 pyautogui==0.9.54
 plyer==2.1.0
 twilio==8.13.0
+screen-brightness-control>=0.23.0
 
 # Testing
 pytest==7.4.4
